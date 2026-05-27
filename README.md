@@ -5,7 +5,7 @@
 ## 安裝
 
 ```bash
-composer require platolin/twsms-sender
+composer require platolin/twsms-sender2
 ```
 
 ## 最小使用範例
